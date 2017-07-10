@@ -1,7 +1,7 @@
-
+##anujs 与 react-router2.x
 
 ```
-git clone https://github.com/reactjs/react-router-tutorial
+git clone https://github.com/RubyLouvre/anu_react_router_2å
 cd react-router-tutorial
 npm install
 npm start
